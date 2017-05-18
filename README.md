@@ -20,8 +20,8 @@ TensorFlow and Keras enable you to train neural network in a few lines.
 #### Book
 [Develop Deep Learning Models on Theano and TensorFlow Using Keras](https://machinelearningmastery.com/deep-learning-with-python/) by Jason Brownlee
 
-### Libraries
-[TensorFlow](https://www.tensorflow.org/)
-[Keras](https://keras.io/)
+##### Libraries
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
 
 
