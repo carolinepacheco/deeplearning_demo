@@ -1,0 +1,1 @@
+python anomaly_prediction.py -i images/anomaly.jpg -o output/prediction.jpg -j json/predictions_anomaly.json
